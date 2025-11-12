@@ -1,0 +1,8 @@
+Person Data: {'name': 'John', 'age': 30, 'city': 'New York'}
+Hello, World!
+This is a test file.
+Python file handling is easy!
+Person Data: {'name': 'John', 'age': 30, 'city': 'New York'}
+Hello, World!
+This is a test file.
+Python file handling is easy!
